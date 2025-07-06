@@ -1,4 +1,4 @@
-# Automatización de Pruebas Funcionales con Selenium – SportClub
+# Automatización de Pruebas Funcionales con Selenium – S.C
 
 Este repositorio contiene dos scripts de automatización funcional en Python utilizando Selenium.
 
